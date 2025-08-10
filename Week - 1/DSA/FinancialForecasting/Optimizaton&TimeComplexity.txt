@@ -1,0 +1,4 @@
+Time Complexity of Recursive Approach: O(n)
+
+We can optimize this by using the iterative method which helps in reducing memory used for storing in stack and by increasing performance.
+Memoization can also be used for reusing the values that are used a number of times.  

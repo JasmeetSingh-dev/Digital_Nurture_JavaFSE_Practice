@@ -1,0 +1,16 @@
+#  Linear Search
+Best Case: O(1)
+Average Case: O(n)
+Worst Case: O(n)
+
+#  Binary Search
+Best Case: O(1)
+Average Case: O(log n)
+Worst Case: O(log n)
+
+#  Suitability based on platform
+Binary search is efficient for large, sorted datasets due to its logarithmic time complexity.
+It provides faster search results compared to linear search.
+E-commerce platforms often have many products, which makes binary search more scalable.
+If products are kept in a sorted order, binary search reduces load and increases performance.
+On the other hand linear search is simpler but it becomes inefficient as the number of products grows.

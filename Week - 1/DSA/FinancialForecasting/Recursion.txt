@@ -1,0 +1,4 @@
+Recursion is a technique in which a function calls itself to solve a problem by breaking it down into smaller subproblems.
+
+It simplifies problems by making the code cleaner and more compact for the problems that have some patterns that are repeating. 
+Complex problems are reduced to base cases and smaller instances of themselves.
